@@ -1,5 +1,5 @@
 import { vec3 } from "gl-matrix";
-import { BoundingBoxEmpty, BoundingBoxExtendByPoint } from "../graphics/shared";
+import { BoundingBoxEmpty, BoundingBoxExtendByPoint } from "../graphics-library/src/shared";
 
 const ATOM_NAME = 'ATOM  ';
 const RESIDUE_NAME = 'SEQRES';
